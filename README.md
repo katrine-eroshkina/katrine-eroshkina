@@ -4,7 +4,7 @@ I'm Katrine, a product designer slowly turning into a design engineer, and I'm p
 I care about clear interfaces, thoughtful interactions, and the small details that make a product feel right. Lately I've started building those details myself instead of just designing them.
 
 #### 🔭 Current endeavors
-* I'm gradually learning react, typeScript, tailwind, and framer motion
+* I'm gradually learning React, TypeScript, Tailwind, and Framer Motion
 * Trying out new tools and libraries to grow my skill set
   
 #### ✨ Fun Facts:
