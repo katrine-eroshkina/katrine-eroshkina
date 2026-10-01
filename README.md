@@ -2,7 +2,7 @@
 I'm Katrine, a product designer exploring design engineering.
 Right now, I prototype my ideas with Claude Code and recreate micro-interactions I like to understand how they actually work.
 I'm gradually learning react, typeScript, tailwind, and framer motion.
-### Fun Facts:
+## Fun Facts:
 I love games with good mechanics and UI
 Pilates is my favorite way to reset
 Hobby: fashion and building things 
