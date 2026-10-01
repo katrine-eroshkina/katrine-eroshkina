@@ -1,10 +1,15 @@
-## Hi there 👋
-I'm Katrine, a product designer exploring design engineering.
-Right now, I prototype my ideas with Claude Code and recreate micro-interactions I like to understand how they actually work.
-I'm gradually learning react, typeScript, tailwind, and framer motion.
-## Fun Facts:
-I love games with good mechanics and UI
-Pilates is my favorite way to reset
-Hobby: fashion and building things 
+### Hi there 👋
+I'm Katrine, a product designer slowly turning into a design engineer, and I'm passionate about crafting digital experiences 
+
+I care about clear interfaces, thoughtful interactions, and the small details that make a product feel right. Lately I've started building those details myself instead of just designing them.
+
+#### 🔭 Current endeavors
+* I'm gradually learning react, typeScript, tailwind, and framer motion
+* Trying out new tools and libraries to grow my skill set
+  
+#### ✨ Fun Facts:
+* I love games with good mechanics and UI
+* Pilates is my favorite way to reset
+* Hobby: fashion and building things 
 <!--
 **katrine-eroshkina/katrine-eroshkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
