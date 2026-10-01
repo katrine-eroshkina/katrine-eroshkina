@@ -8,7 +8,7 @@ I care about clear interfaces, thoughtful interactions, and the small details th
 * Trying out new tools and libraries to grow my skill set
   
 #### ✨ Fun Facts:
-* I love games with good mechanics and UI
+* I love games with good mechanics and jaw-dropping VFX
 * Pilates is my favorite way to reset
 * Hobby: fashion and building things 
 <!--
