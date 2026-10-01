@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Katrine, a product designer slowly turning into a design engineer, and I'm passionate about crafting digital experiences 
+I'm Katrine, a product designer slowly turning into a design engineer, and I'm passionate about crafting digital experiences <3
 
 I care about clear interfaces, thoughtful interactions, and the small details that make a product feel right. Lately I've started building those details myself instead of just designing them.
 
